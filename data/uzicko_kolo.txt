@@ -1,0 +1,8 @@
+[u o I o p o I o t u][uty][i] [i u t u][uty][i] [i u][t y y y]y[y t]
+[u o I o p o I o t u][uty][i] [i u t u][uty][i] [i u][t y y y]y|
+[u] [i u][u] [i u][u t i u]y[y t][u] [i u][i u y t]y|[o i u y]
+[u] [i u][u] [i u][u t i u]y[y t][u] [i u][i u y t]yy[y t y u]
+[i t i o p P p o]p|||[s P P p p o o i]o|||
+[i t i o p P p o]p|||[s P P p p o o i]o|||
+[u] [i u u] [i u u t i u]y[y t u] [i u i u y t]y|[o i u y]
+[u] [i u u] [i u u t i u]y[y t y u i u i u y t]y|[tuy]|
